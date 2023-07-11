@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="" rel="noopener">
-        <img width=200px height=200px src = "" alt="Smart Socket">
+        <img width=200px height=200px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/AI%20surveillance" alt="Smart Socket">
     </a>
 </p>
 
 <h3 align="center">AI-Based-Surveillance-Camera</h3>
 
-This is an AI based surveillance camera with object detection, based on ESP 32 CAM module (AI-Thinker), a model train with edge impulse for survellance and detecting human being in a given area.The main aim of the system is to understand how many people are in an area, in othr to control the air conditioner and luminance in that area.
+This is an AI based surveillance camera with object detection, based on ESP 32 CAM module (AI-Thinker), a model train with edge impulse for survellance and detecting human being in a given area.The main aim of the system is to understand how many people are in an area, in othr to control the air conditioner and luminance in that area.For now, I was able to achieve the object detection and surveillance, moving forward to energy conservation with it.
 
 **Features**
 
