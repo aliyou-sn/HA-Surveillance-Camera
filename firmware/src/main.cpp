@@ -10,9 +10,9 @@
 const char ssid[] = "NITDA-ICT-HUB";
 const char pass[] = "6666.2524#";
 
-#define CONFIG_BROKER_URL "172.16.120.87"
+#define CONFIG_BROKER_URL "172.16.122.37"
 
-#define CONFIG_BROKER_USERNAME "esp_camera"
+#define CONFIG_BROKER_USERNAME "nithub_cam"
 #define CONFIG_BROKER_PASSWORD "0000"
 
 //For the First Camera
