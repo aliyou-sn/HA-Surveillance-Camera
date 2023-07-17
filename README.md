@@ -19,7 +19,7 @@ This is an AI based surveillance camera with object detection, based on ESP 32 C
 
 3D model:
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="Smart Socket">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Images/2.jpeg" alt="Smart Socket">
     </a>
 
 
