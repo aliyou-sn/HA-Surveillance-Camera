@@ -19,21 +19,21 @@ This is an AI based surveillance camera with object detection, based on ESP 32 C
 
 3D model:
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Images/2.jpeg" alt="Smart Socket">
+        <img width=400px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Images/2.jpeg" alt="Smart Socket">
     </a>
 
 
 ##Model :
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Screenshot%202023-07-10%20at%2012.37.00%20PM.png" alt="Smart Socket">
+        <img width=600px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Screenshot%202023-07-10%20at%2012.37.00%20PM.png" alt="Smart Socket">
     </a>
 
 ##Data acquisition
 
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Screenshot%202023-07-11%20at%2012.03.59%20PM.png">
+        <img width=600px height=600px src = "https://github.com/aliyou-sn/Surveillance-Camera-with-object-detection/blob/main/Screenshot%202023-07-11%20at%2012.03.59%20PM.png">
     </a>
 
 ## Hardware Requirements
